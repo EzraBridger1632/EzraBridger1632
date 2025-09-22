@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EzraBridger1632
+- 👋 Hi, I’m  Arpan Mondal or @EzraBridger1632, whichever name you prefer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate with people
